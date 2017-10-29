@@ -1,4 +1,8 @@
 
 
 print "hello Python !!"
-print "abc"
+
+msg = "Good NIght"
+
+print msg
+
