@@ -2,7 +2,9 @@
 
 print "hello Python !!"
 
-msg = "Good NIght"
+
+msg = "Good"
 
 print msg
+
 
